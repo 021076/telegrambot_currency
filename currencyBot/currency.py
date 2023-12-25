@@ -1,6 +1,5 @@
 import json
 import os
-from datetime import datetime
 import requests
 
 API_KEY: str = os.getenv('EXCHANGERATES_DATA_API')
